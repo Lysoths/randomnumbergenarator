@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/randomnumbergenarator/static/css/main.5208fdd8.css",
-    "main.js": "/randomnumbergenarator/static/js/main.c95dc4ea.js",
+    "main.js": "/randomnumbergenarator/static/js/main.051ce600.js",
     "index.html": "/randomnumbergenarator/index.html",
     "main.5208fdd8.css.map": "/randomnumbergenarator/static/css/main.5208fdd8.css.map",
-    "main.c95dc4ea.js.map": "/randomnumbergenarator/static/js/main.c95dc4ea.js.map"
+    "main.051ce600.js.map": "/randomnumbergenarator/static/js/main.051ce600.js.map"
   },
   "entrypoints": [
     "static/css/main.5208fdd8.css",
-    "static/js/main.c95dc4ea.js"
+    "static/js/main.051ce600.js"
   ]
 }
