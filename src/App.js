@@ -10,7 +10,7 @@ function App() {
     if (minVal > maxVal) {
       alert("Minimum değer Maximum değerden büyük olamaz");
     } else {
-      randomNumbers(Math.floor(Math.random()) * maxVal - minVal);
+      randomNumbers(Math.floor(Math.random() * maxVal - minVal));
     }
   };
   return (
