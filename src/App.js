@@ -7,7 +7,11 @@ function App() {
   const [randomNumber, randomNumbers] = useState();
 
   const randomGenarator = () => {
-    randomNumbers(Math.floor(Math.random() * maxVal - minVal));
+    if (setMinVal > setMaxVal) {
+      alert("Minimum değer Maximum değerden büyük olamaz");
+    } else {
+      randomNumbers(Math.floor(Math.random) * (maxVal - minVal));
+    }
   };
   return (
     <div className='container'>
